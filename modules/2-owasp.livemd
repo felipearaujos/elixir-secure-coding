@@ -121,7 +121,7 @@ end
 
 # DO NOT CHANGE CODE ABOVE THIS LINE =========================
 
-# PasswordCompare.option_one("users_password", md5_hash)
+PasswordCompare.option_one("users_password", md5_hash)
 # PasswordCompare.option_two("users_password", bcrypt_salted_hash)
 ```
 
